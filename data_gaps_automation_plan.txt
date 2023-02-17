@@ -1,0 +1,35 @@
+Vad skulle egentligen krävas för att automatisera data_gaps? Även om scriptet inte är perfekt (vilket det dock kan vara för det är bara ett terminal call) 
+så är det ingen fara -> om man t.ex sätter det på Putte och Roman att fixa gaps och scriptet någon gång misslyckas så ber de bara någon på BE att fixa, och 
+ingenting kan gå sönder av att man skickar in fel uppgifter, i värsta fall kör man bara action/republish där det inte behövs, men ingenting går fel.
+
+
+#------------------------# 
+# GUI
+#------------------------# 
+Enda som behövs är att användaren matar in company_slug och serial, sedan laddar upp foldern med spool-filer.
+
+#------------------------# 
+# WORKFLOW
+#------------------------# 
+Användaren ger input (serial, company_slug, foldern med spool-filer)
+foldern SCPas till automation-servern, den ligger där tills jobbet är klart och tas sen bort.
+
+Jobbet påbörjas:
+UploadDirectory körs på spoolFiles/0
+Scriptet hanterar errors (fick ibland starta om UploadDirectory troligen pga tappat uppkoppling en millisekund)
+Om error - vänta 5 sek och starta om scriptet
+Om körningen avslutas utan error...
+Loopa UploadDirectory för spoolFiles/1 och spoolFiles/2, sedan /tmp
+Maila support att ärendet är klart 
+Radera spool-filerna
+
+
+#------------------------# 
+# ERROR HANTERING
+#------------------------# 
+Vad för errorhantering krävs? 
+Vad kan gå fel, och vad gör man när den saken går fel?
+Hur vet man baserat på terminalen att körningen är klar? Och är det tillräcklig feedback för att våga radera foldern?
+
+Ett sätt man iaf kan kolla att alla filer är uppladdade är att räkna filerna innan körning och jämföra /X med /X_synced som skapas av körningen.
+Så om det fanns 34 spool-filer i /0 håller scriptet koll på det, och går aldrig vidare till /1 innan /0_synced har 34 spool-filer i sig

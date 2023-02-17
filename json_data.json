@@ -1,0 +1,1934 @@
+{
+    "self_url": "/boapi/v0/company/682/device/C22/106250/syslog/2023/01/05",
+    "id": "05",
+    "data": [
+        {
+            "time_diff": 20186313304,
+            "name": "SRVINFO",
+            "infra_timestamp": 23796999657976,
+            "index": 142,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DIAGNOSIS"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 83
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "DIAG",
+            "infra_timestamp": 23796999657960,
+            "index": 141,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "83(1) CH- [0] Sampling failed"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "DIAG",
+            "infra_timestamp": 23796999657880,
+            "index": 140,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Clear error 83 Sampling failed"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999656624,
+            "index": 139,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "ENTER"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 8
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796999604592,
+            "index": 138,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,5"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796999600272,
+            "index": 137,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,22,62"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SMTRANS",
+            "infra_timestamp": 23796999597688,
+            "index": 136,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_MENU -> UI_ACTION"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999597664,
+            "index": 135,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "ENTER"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 8
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999580024,
+            "index": 134,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DOWN"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 4
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999569784,
+            "index": 133,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DOWN"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 4
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999559464,
+            "index": 132,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DOWN"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 4
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999549128,
+            "index": 131,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DOWN"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 4
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999539016,
+            "index": 130,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DOWN"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 4
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999528920,
+            "index": 129,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DOWN"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 4
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SMTRANS",
+            "infra_timestamp": 23796999506320,
+            "index": 128,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_MAIN -> UI_MENU"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999506288,
+            "index": 127,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "ENTER"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 8
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SMTRANS",
+            "infra_timestamp": 23796999417240,
+            "index": 126,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_STARTUP -> UI_MAIN"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "GUI",
+            "infra_timestamp": 23796999410848,
+            "index": 125,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Display on"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SMTRANS",
+            "infra_timestamp": 23796999410832,
+            "index": 124,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_OFF -> UI_STARTUP"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "KEY",
+            "infra_timestamp": 23796999410800,
+            "index": 123,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "POWER"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 1
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SYNC_UPLOAD",
+            "infra_timestamp": 23796999361072,
+            "index": 122,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SYNC_UPLOAD",
+            "infra_timestamp": 23796999327520,
+            "index": 121,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SYNC_UPLOAD",
+            "infra_timestamp": 23796999294040,
+            "index": 120,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "uint_data",
+                    "data": 78
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 78
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "GUI",
+            "infra_timestamp": 23796999241168,
+            "index": 119,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Display off"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SMTRANS",
+            "infra_timestamp": 23796999241144,
+            "index": 118,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_WAIT_FOR_OFF -> UI_OFF"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796999212920,
+            "index": 117,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,6"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796999208408,
+            "index": 116,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,26,67"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SMTRANS",
+            "infra_timestamp": 23796999164304,
+            "index": 115,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_COMMUNICATION -> UI_WAIT_FOR_OFF"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796998819904,
+            "index": 114,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,6"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796998815512,
+            "index": 113,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,26,67"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796998427856,
+            "index": 112,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,5"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796998423432,
+            "index": 111,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,22,64"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SRVINFO",
+            "infra_timestamp": 23796997173016,
+            "index": 99,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "UTC_NOT_SYNCHED"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 91
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "DIAG",
+            "infra_timestamp": 23796997172992,
+            "index": 98,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "91(1) CH- [0] Real-time clock poorly synchronized"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "RTCTRIM",
+            "infra_timestamp": 23796997172968,
+            "index": 97,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "sint_data",
+                    "data": 616037393
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 21
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "STOR",
+            "infra_timestamp": 23796997172328,
+            "index": 96,
+            "file_line": "unit/config/config_storage.c:265",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Write: Id=0x0001, size=16 token=0xAA01E42C"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "DIAG",
+            "infra_timestamp": 23796997172304,
+            "index": 95,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Clear error 90 Real-time clock not synchronized"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SNTP",
+            "infra_timestamp": 23796997172232,
+            "index": 94,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "float_data",
+                    "data": 616037.375
+                },
+                {
+                    "data_type": "float_data",
+                    "data": 0.1018056869506836
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONFIG",
+            "infra_timestamp": 23796997165744,
+            "index": 93,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Spool, id=3b9f3da0-ead0-11cb-95c6-49dc43e8998c"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONN",
+            "infra_timestamp": 23796997165600,
+            "index": 92,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "connected"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SMTRANS",
+            "infra_timestamp": 23796997165568,
+            "index": 91,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "modem_fsm: MODEM_PPP_LINK_UP_WAIT -> MODEM_ATTACHED"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997132064,
+            "index": 90,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Network state: 5"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SMTRANS",
+            "infra_timestamp": 23796997132040,
+            "index": 89,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "modem_fsm: MODEM_NETWORK_REG -> MODEM_PPP_LINK_UP_WAIT"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997131992,
+            "index": 88,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "2:CONNECT"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997131960,
+            "index": 87,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "2:ATD*99***1#/CONNECT"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997127608,
+            "index": 86,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CGDCONT=1,\"IP\",\"apn.sigicom.com\"/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997122824,
+            "index": 85,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CGDCONT?/+CGDCONT: 4,\"IP\",\"internet.swir.mnc001.mcc222.gprs\",\"100.66.20.238\",0,0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997118528,
+            "index": 84,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CGDEL/+CGDEL: 1"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997114200,
+            "index": 83,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "2:AT/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997110120,
+            "index": 82,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "2:ATV1/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997105824,
+            "index": 81,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "2:ATE0/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997101672,
+            "index": 80,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+UCGED?/+UCGED: 2..4,0,240,01..3150,7,100,100,0073,1a4150a,60,00000000,ffff,ff,58,17,6.88,255,1,0,255,255,255,0,255,255,0,0"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997080728,
+            "index": 79,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+UCGED=2/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997076320,
+            "index": 78,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+COPS?/+COPS: 0,0,\"Telia\",7"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796997071280,
+            "index": 77,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "AT+CREG? status=5"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796996862144,
+            "index": 76,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 14,1"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796996857792,
+            "index": 75,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,36,42,255,255"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796996473088,
+            "index": 74,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 29,1"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796996468664,
+            "index": 73,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,67,40,255,255"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796996082712,
+            "index": 72,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,1"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796996078352,
+            "index": 71,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,8,72"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796995689632,
+            "index": 70,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 25,3"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796995685384,
+            "index": 69,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,58,26,255,255"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796995587696,
+            "index": 68,
+            "file_line": "app/vibnode/recording.c:851",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_RELFREQ (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": -1.0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796995587680,
+            "index": 67,
+            "file_line": "app/vibnode/recording.c:850",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_RELMAX (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": 0.0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796995587664,
+            "index": 66,
+            "file_line": "app/vibnode/recording.c:848",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_MAX (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": 0.8155156373977661
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796995299416,
+            "index": 65,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,6"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796995295064,
+            "index": 64,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,26,71"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "KEY",
+            "infra_timestamp": 23796995249264,
+            "index": 63,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "COM"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 16
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SMTRANS",
+            "infra_timestamp": 23796995230648,
+            "index": 62,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_MAIN -> UI_COMMUNICATION"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "KEY",
+            "infra_timestamp": 23796995230640,
+            "index": 61,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "COM"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 16
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796995065320,
+            "index": 60,
+            "file_line": "app/vibnode/recording.c:851",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_RELFREQ (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": -1.0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796995065304,
+            "index": 59,
+            "file_line": "app/vibnode/recording.c:850",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_RELMAX (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": 0.0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796995065288,
+            "index": 58,
+            "file_line": "app/vibnode/recording.c:848",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_MAX (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": 1.0021576881408691
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994905304,
+            "index": 57,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,4"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994900984,
+            "index": 56,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,18,71"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "LOWPOW_ST",
+            "infra_timestamp": 23796994813528,
+            "index": 55,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 9
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 6
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "LOWPOW_RM",
+            "infra_timestamp": 23796994813496,
+            "index": 54,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "uint_data",
+                    "data": 19
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONFIG",
+            "infra_timestamp": 23796994812584,
+            "index": 53,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Spool, id=3b9f3da0-ead0-11cb-95c6-49dc43e8998c"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SRVINFO",
+            "infra_timestamp": 23796994812424,
+            "index": 52,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "MON_ON"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 4
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SMTRANS",
+            "infra_timestamp": 23796994798576,
+            "index": 51,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "modem_fsm: MODEM_USB_CONNECT_WAIT -> MODEM_NETWORK_REG"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994798512,
+            "index": 50,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+UDOPN=7/+UDOPN: 7,\"Sierra Wireless\",0"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994793856,
+            "index": 49,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CIMI/206018072427409"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994786352,
+            "index": 48,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CCID?/+CCID: 89332401000020405763"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994782256,
+            "index": 47,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CPIN?/+CPIN: READY"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994777936,
+            "index": 46,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+ULSTFILE=1,\"RAMDUMP\"/+ULSTFILE: 55578624"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994770520,
+            "index": 45,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CGSN/352255064330040"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994766392,
+            "index": 44,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:ATI9/16.19,A01.04"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994762296,
+            "index": 43,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:ATI0/MPCI-L210-03S-01"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994758312,
+            "index": 42,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CGMI/u-blox"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994754216,
+            "index": 41,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+COPS?/+COPS: 0"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994749720,
+            "index": 40,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CFUN?/+CFUN: 1,0"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994745360,
+            "index": 39,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+URXDIV?/+URXDIV: 0"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994741000,
+            "index": 38,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+UMWI=0/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994736624,
+            "index": 37,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSCS=\"8859-1\"/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994732528,
+            "index": 36,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CMGF=1/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994728432,
+            "index": 35,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CMEE=0/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994724304,
+            "index": 34,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:ATV1/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "MODEM",
+            "infra_timestamp": 23796994720080,
+            "index": 33,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:ATE0/OK"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SRVINFO",
+            "infra_timestamp": 23796994490544,
+            "index": 32,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Config change ACCEPTED"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SRVINFO",
+            "infra_timestamp": 23796994490296,
+            "index": 31,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "CONFIGCHANGE_INDICATOR"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 11
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONFIG",
+            "infra_timestamp": 23796994489472,
+            "index": 30,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Spool, id=3b9f3da0-ead0-11cb-95c6-49dc43e8998c"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONFIG",
+            "infra_timestamp": 23796994489120,
+            "index": 29,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "New, id=3b9f3da0-ead0-11cb-95c6-49dc43e8998c"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 11
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "STOR",
+            "infra_timestamp": 23796994487264,
+            "index": 28,
+            "file_line": "unit/config/config_storage.c:265",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Write: Id=0x0004, size=76 token=0xAA02FB66"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SRVINFO",
+            "infra_timestamp": 23796994486704,
+            "index": 27,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DIAGNOSIS"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 81
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "DIAG",
+            "infra_timestamp": 23796994486432,
+            "index": 26,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "81(1) CH- [0] Monitoring started automatically"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SMTRANS",
+            "infra_timestamp": 23796994409952,
+            "index": 25,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_STARTUP -> UI_MAIN"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SPOOL COUNTER",
+            "infra_timestamp": 23796994183656,
+            "index": 24,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "uint_data",
+                    "data": 69
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796994180032,
+            "index": 23,
+            "file_line": "_build/c22/time_tick.c:199",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Sample trim: +=0 -=0 diff=0"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SPOOLSTAT",
+            "infra_timestamp": 23796994179768,
+            "index": 22,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "sint_data",
+                    "data": 709
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 54
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 773
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "LOWPOW_RM",
+            "infra_timestamp": 23796994179520,
+            "index": 21,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "uint_data",
+                    "data": 2
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "INFO",
+            "infra_timestamp": 23796994179144,
+            "index": 20,
+            "file_line": "_build/c22/time_tick.c:172",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Busy count"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 129
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SMTRANS",
+            "infra_timestamp": 23796994163128,
+            "index": 19,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "modem_fsm: MODEM_OFF -> MODEM_USB_CONNECT_WAIT"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONN",
+            "infra_timestamp": 23796994159768,
+            "index": 18,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "on-demand request"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SRVINFO",
+            "infra_timestamp": 23796994158288,
+            "index": 16,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "UTC_NOT_SYNCHED"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 90
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "GUI",
+            "infra_timestamp": 23796994158480,
+            "index": 17,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Display on"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "SMTRANS",
+            "infra_timestamp": 23796994157536,
+            "index": 14,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "user_interface: UI_WAIT_FOR_START -> UI_STARTUP"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "DIAG",
+            "infra_timestamp": 23796994157904,
+            "index": 15,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "90(1) CH- [0] Real-time clock not synchronized"
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "RTCTRIM",
+            "infra_timestamp": 23796994157520,
+            "index": 13,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "sint_data",
+                    "data": 0
+                },
+                {
+                    "data_type": "sint_data",
+                    "data": 6
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONFIG",
+            "infra_timestamp": 23796994156384,
+            "index": 12,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "Spool, id=35002450-ead0-11cb-95c6-49dc43e8998c"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "time_diff": "undefined",
+            "name": "CONN",
+            "infra_timestamp": 23796994151832,
+            "index": 11,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "enabled"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "SRVINFO",
+            "infra_timestamp": 23796998134576,
+            "index": 110,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "DIAGNOSIS"
+                },
+                {
+                    "data_type": "uint_data",
+                    "data": 83
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "DIAG",
+            "infra_timestamp": 23796998134560,
+            "index": 109,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "83(1) CH- [0] Sampling failed"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796998035192,
+            "index": 108,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,6"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796998030736,
+            "index": 107,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,26,68"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "INFO",
+            "infra_timestamp": 23796997927056,
+            "index": 106,
+            "file_line": "app/vibnode/recording.c:851",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_RELFREQ (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": -1.0
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "INFO",
+            "infra_timestamp": 23796997927048,
+            "index": 105,
+            "file_line": "app/vibnode/recording.c:850",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_RELMAX (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": 0.0
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "INFO",
+            "infra_timestamp": 23796997927024,
+            "index": 104,
+            "file_line": "app/vibnode/recording.c:848",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "EVT_MAX (ch.0)"
+                },
+                {
+                    "data_type": "float_data",
+                    "data": 7.026597023010254
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796997643464,
+            "index": 103,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,2"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796997639040,
+            "index": 102,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,12,62"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796997254216,
+            "index": 101,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CSQ/+CSQ: 31,3"
+                }
+            ]
+        },
+        {
+            "time_diff": 20186313304,
+            "name": "MODEM",
+            "infra_timestamp": 23796997248584,
+            "index": 100,
+            "file_line": "undefined",
+            "data": [
+                {
+                    "data_type": "string_data",
+                    "data": "1:AT+CESQ/+CESQ: 99,99,255,255,16,59"
+                }
+            ]
+        }
+    ]
+}
